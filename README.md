@@ -14,6 +14,27 @@
 
 ---
 
+<h3 align="left">🤝 Connect with me:</h3>
+<p align="left">
+  <a href="https://twitter.com/ragini_pandey" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragini_pandey" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragini-pandey-dev" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ragini.codes" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragini.codes" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ragini-pandey" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragini-pandey" height="30" width="40" />
+  </a>
+  <a href="https://github.com/ragini-pandey" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ragini-pandey" height="30" width="40" />
+  </a>
+</p>
+
+---
+
 ### 🌱 About Me
 - Crafting interactive, high-quality user experiences
 - Passionate about scalable architecture & polished design
@@ -79,24 +100,6 @@
     width="400"
     alt="Top Languages"
   />
-</p>
-
----
-
-### 🤝 Connect With Me
-<p align="center">
-  <a href="mailto:ragini.pandey.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-16a34a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-22c55e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/ragini-pandey" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-15803d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://ragini-pandey.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-4ade80?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 ---
