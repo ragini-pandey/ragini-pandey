@@ -25,7 +25,6 @@
 - Passionate about scalable architecture & polished design
 - Constantly learning, experimenting, and creating
 - Exploring **Next.js**, **Convex**, & **Cloud integrations**
-- Motto: *“Build beautifully. Code fearlessly.”* 🌿
 
 ---
 
@@ -56,10 +55,10 @@
 #### ☁️ Cloud, DevOps & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" title="AWS" />
+  <img src="https://api.iconify.design/logos:aws.svg" width="40" title="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://api.iconify.design/logos:github-icon.svg" width="40" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
 </p>
 
