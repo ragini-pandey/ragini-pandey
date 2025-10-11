@@ -7,14 +7,17 @@
 </p>
 
 <p align="center">
+  <a href="https://ragini-pandey.github.io" target="_blank"><b>🌐 Portfolio</b></a> |
+  <a href="https://github.com/ragini-pandey"><b>💻 GitHub</b></a> |
+  <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank"><b>🔗 LinkedIn</b></a>
   <a href="https://ragini-pandey.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌿_Portfolio-4ade80?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌸_Portfolio-ffc0cb?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/ragini-pandey">
-    <img src="https://img.shields.io/badge/💻_GitHub-16a34a?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻_GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn-10b981?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💫_LinkedIn-f9a8d4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
