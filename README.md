@@ -1,39 +1,57 @@
-# 🧑🏻‍💻 Ragini Pandey
+<h1 align="center">🧑🏻‍💻 Ragini Pandey</h1>
 
-`Building Scalable and Engaging Web Experiences` <br/>
+<p align="center">
+  <em>Hello there! 👋🏻</em><br/>
+  <b>Full Stack Developer</b> crafting high-performing, scalable web applications with <b>MERN Stack</b>, <b>TypeScript</b>, and <b>Next.js</b>.
+  Passionate about <b>clean architecture</b>, <b>performance optimization</b>, and <b>intuitive UX</b>.
+  Always curious. Always building. 🚀
+</p>
 
-Hello there! 👋🏻 I'm a passionate **Full Stack Developer** with 3+ years of experience crafting dynamic and high-performing web applications.
-I specialize in building end-to-end solutions using the **MERN stack (MongoDB, Express.js, React.js, Node.js)** — along with **TypeScript** and **Next.js** for modern, efficient web development.
-
-I focus on **performance optimization**, **clean architecture**, and **creating intuitive user experiences**.
-Always eager to explore new technologies and collaborate on exciting projects! 🚀
-
-*Check out my portfolio:* [**https://ragini-pandey.github.io**](https://ragini-pandey.github.io)
+<p align="center">
+  <a href="https://ragini-pandey.github.io" target="_blank"><b>🌐 Portfolio</b></a> |
+  <a href="https://github.com/ragini-pandey"><b>💻 GitHub</b></a> |
+  <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank"><b>🔗 LinkedIn</b></a>
+</p>
 
 ---
 
-### 🛠️ Languages & Tools
+### ⚙️ Tech Stack
 
-<img align="left" alt="React" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Nextjs" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Nodejs" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Typescript" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Javascript" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Express" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-<img align="left" alt="HTML 5" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS 3" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Tailwind" width="30px" style="padding-right: 5px;" src="https://api.iconify.design/logos:tailwindcss-icon.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="PostgreSQL" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><br/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" title="JavaScript" />
+  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="40" title="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
+</p>
 
-#
+---
 
-### 📊 Stats
+### 📊 GitHub Analytics
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 5rem; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragini-pandey&show_icons=true&theme=transparent" alt="Ragini's Stats" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragini-pandey&theme=transparent" alt="Ragini's Streak Stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragini-pandey&layout=compact&theme=transparent" alt="Most Used Languages" width="400">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragini-pandey&show_icons=true&theme=radical&hide_border=true" width="420" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragini-pandey&theme=radical&hide_border=true" width="420" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragini-pandey&layout=compact&theme=radical&hide_border=true" width="420" />
+</p>
+
+---
+
+### 💬 About Me
+
+- 💡 Love exploring full-stack patterns & modern frameworks
+- ⚙️ Focused on **performance**, **DX**, and **UX**
+- 🧠 Constantly learning, improving, and mentoring peers
+- 🎨 Sometimes design, sometimes debug — always build
+- 🌍 Open to remote collaboration & open-source work
