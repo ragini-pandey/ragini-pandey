@@ -83,6 +83,24 @@
 
 ---
 
+### 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:ragini.pandey.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-16a34a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-22c55e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ragini-pandey" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-15803d?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://ragini-pandey.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4ade80?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <em>🌿 “Build beautifully. Code fearlessly.” 🌿</em>
 </p>
