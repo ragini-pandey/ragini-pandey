@@ -105,5 +105,5 @@
 ---
 
 <p align="center">
-  <em>🌿 “Build beautifully. Code fearlessly.” 🌿</em>
+  <em>🌿 “Build beautifully! Code fearlessly!” 🌿</em>
 </p>
