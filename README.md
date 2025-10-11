@@ -1,6 +1,5 @@
-<h1 align="center">👩🏼‍💻 <span style="color:#34d399;">Ragini Pandey</span></h1>
+<h1 align="center">👩🏼‍💻 <span style="color:#22c55e;">Ragini Pandey</span></h1>
 
-<hr style="border: none; height: 3px; background: linear-gradient(90deg, #a7f3d0, #6ee7b7); border-radius: 2px; width: 60%; margin: auto;" />
 
 
 <p align="center" style="font-size:16px;">
@@ -12,23 +11,24 @@
 
 <p align="center">
   <a href="https://ragini-pandey.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌿_Portfolio-34d399?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌿_Portfolio-4ade80?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/ragini-pandey">
-    <img src="https://img.shields.io/badge/💻_GitHub-10b981?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻_GitHub-16a34a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_LinkedIn-22c55e?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗_LinkedIn-10b981?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ### 🌱 About Me
-- Turning ideas into smooth, interactive user experiences.
-- Passionate about front-end polish and scalable back-ends.
-- Forever curious; always shipping and learning.
-- Currently exploring **Next.js**, **Convex**, and **Cloud integrations**.
+- Crafting interactive, high-quality user experiences
+- Passionate about scalable architecture & polished design
+- Constantly learning, experimenting, and creating
+- Exploring **Next.js**, **Convex**, & **Cloud integrations**
+- Motto: *“Build beautifully. Code fearlessly.”* 🌿
 
 ---
 
@@ -49,34 +49,28 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
-<!-- tidy 3-column layout -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=ragini-pandey&show_icons=true&theme=transparent&hide_border=true&title_color=10b981&icon_color=10b981&text_color=0f172a"
-        width="360"
-        alt="Stats"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ragini-pandey&theme=transparent&hide_border=true&ring=10b981&fire=22c55e&currStreakLabel=10b981&sideNums=0f172a&currStreakNum=0f172a&sideLabels=64748b"
-        width="360"
-        alt="Streak"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragini-pandey&layout=compact&theme=transparent&hide_border=true&title_color=10b981&text_color=0f172a"
-        width="360"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ragini-pandey&show_icons=true&bg_color=ffffff&title_color=16a34a&icon_color=16a34a&text_color=065f46&hide_border=false&border_color=c7f9cc"
+    width="380"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=ragini-pandey&theme=default&background=ffffff&ring=22c55e&fire=65a30d&currStreakLabel=16a34a&sideLabels=065f46&sideNums=065f46&currStreakNum=065f46&dates=065f46&hide_border=false&border=bbf7d0"
+    width="380"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragini-pandey&layout=compact&bg_color=ffffff&title_color=16a34a&text_color=065f46&hide_border=false&border_color=c7f9cc"
+    width="400"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
