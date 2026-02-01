@@ -10,9 +10,6 @@
   <a href="https://ragini-pandey.github.io" target="_blank"><b>🌐 Portfolio</b></a> |
   <a href="https://github.com/ragini-pandey"><b>💻 GitHub</b></a> |
   <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank"><b>🔗 LinkedIn</b></a>
-  <a href="https://www.buymeacoffee.com/ragini.pandey" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
-  </a>
 </p>
 
 ---
@@ -38,7 +35,18 @@
 
 ---
 
+### ☕ Support my work
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
+  </a>
+</p>
+
+---
+
 ### 🌱 About Me
+
 - Crafting interactive, high-quality user experiences
 - Passionate about scalable architecture & polished design
 - Constantly learning, experimenting, and creating
