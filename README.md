@@ -12,7 +12,6 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank"><b>🔗 LinkedIn</b></a>
 </p>
 
----
 
 <table align="center">
 <tr>
@@ -83,7 +82,6 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
 </p>
 
----
 
 ### 📊 GitHub Insights
 
