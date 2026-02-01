@@ -90,25 +90,24 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 <p align="center">
 <a href="https://github.com/ragini-pandey">
 <img
-src="https://github-readme-stats.vercel.app/api?username=ragini-pandey&show_icons=true&bg_color=fafafa&title_color=16a34a&icon_color=22c55e&text_color=065f46&hide_border=true"
-width="380"
-alt="GitHub Stats"
-/>
-</a>
-<a href="https://github.com/ragini-pandey">
-<img
-src="https://github-readme-streak-stats.herokuapp.com?user=ragini-pandey&theme=default&background=fafafa&ring=22c55e&fire=65a30d&currStreakLabel=15803d&sideLabels=065f46&sideNums=15803d&currStreakNum=065f46&dates=166534&hide_border=true"
-width="380"
-alt="GitHub Streak"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragini-pandey&theme=vue"
+alt="GitHub Profile Summary"
 />
 </a>
 </p>
 
 <p align="center">
+<a href="https://github.com/ragini-pandey">
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragini-pandey&theme=vue"
+width="320"
+alt="GitHub Stats"
+/>
+</a>
 <a href="https://github.com/ragini-pandey?tab=repositories">
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragini-pandey&layout=compact&bg_color=fafafa&title_color=16a34a&text_color=065f46&hide_border=true"
-width="400"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragini-pandey&theme=vue"
+width="320"
 alt="Top Languages"
 />
 </a>
