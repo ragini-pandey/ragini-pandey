@@ -16,7 +16,8 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td align="center">
+<img width="400" height="1" />
 
 ### 🤝 Connect with me
 
@@ -26,7 +27,8 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 <a href="https://www.leetcode.com/ragini-pandey"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
 
 </td>
-<td width="50%" valign="top" align="center">
+<td align="center">
+<img width="400" height="1" />
 
 ### ☕ Support my work
 
@@ -35,6 +37,8 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 </td>
 </tr>
 </table>
+
+---
 
 ### 🧰 Tech Stack
 
