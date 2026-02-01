@@ -32,8 +32,6 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 </table>
 </div>
 
----
-
 ### 🧰 Tech Stack
 
 #### 💻 Frontend
