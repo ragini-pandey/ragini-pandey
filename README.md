@@ -14,34 +14,41 @@
 
 ---
 
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/pandeyragini24" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragini_pandey" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragini-pandey-dev" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/pandeyragini2407" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ragini pandey instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ragini-pandey" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragini-pandey" height="30" width="40" />
-  </a>
-  <!-- <a href="https://github.com/ragini-pandey" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ragini-pandey" height="30" width="40" />
-  </a> -->
-</p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <!-- Left column -->
+    <td width="50%" valign="top">
+      <h3 align="left">🤝 Connect with me:</h3>
+      <p align="left">
+        <a href="https://twitter.com/pandeyragini24" target="_blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragini_pandey twitter" height="30" width="40" />
+        </a>
+        <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragini-pandey-dev linkedin" height="30" width="40" />
+        </a>
+        <a href="https://instagram.com/pandeyragini2407" target="_blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragini pandey instagram" height="30" width="40" />
+        </a>
+        <a href="https://www.leetcode.com/ragini-pandey" target="_blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragini-pandey leetcode" height="30" width="40" />
+        </a>
+        <!-- <a href="https://github.com/ragini-pandey" target="_blank">
+          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ragini-pandey github" height="30" width="40" />
+        </a> -->
+      </p>
+    </td>
 
----
-
-### ☕ Support my work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ragini.pandey" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
-  </a>
-</p>
+    <!-- Right column -->
+    <td width="50%" valign="top">
+      <h3 align="left">☕ Support my work</h3>
+      <p align="left">
+        <a href="https://www.buymeacoffee.com/ragini.pandey" target="_blank">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
