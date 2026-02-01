@@ -14,23 +14,27 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 
 ---
 
-<table width="100%">
+<table>
 <tr>
-<td width="50%" align="center">
-<h3>🤝 Connect with me</h3>
+<td width="50%" valign="top" align="center">
+
+### 🤝 Connect with me
+
 <a href="https://twitter.com/pandeyragini24"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ragini-pandey-dev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/pandeyragini2407"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ragini-pandey"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+
 </td>
-<td width="50%" align="center">
-<h3>☕ Support my work</h3>
+<td width="50%" valign="top" align="center">
+
+### ☕ Support my work
+
 <a href="https://www.buymeacoffee.com/ragini.pandey"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" /></a>
+
 </td>
 </tr>
 </table>
-
----
 
 ### 🧰 Tech Stack
 
