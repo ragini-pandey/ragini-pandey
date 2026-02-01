@@ -1,102 +1,122 @@
-<h1 align="center">👩🏼‍💻 Ragini Pandey</h1>
+<div align="center">
+  
+# Hey there! 👋 I'm Ragini Pandey
+
+### 🚀 Full Stack Developer | MERN • TypeScript • Next.js
+
+*Building modern, fast, and delightful web experiences*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ragini-pandey.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragini-pandey-dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pandeyragini24)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/ragini-pandey)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pandeyragini2407)
+
+</div>
+
+---
+
+## 🌱 About Me
+
+```javascript
+const ragini = {
+    pronouns: "she" | "her",
+    code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+    focus: "Building scalable web applications with great UX",
+    currentlyLearning: ["Next.js", "Convex", "Cloud Integrations"],
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
+```
+
+- 🎨 Crafting interactive, high-quality user experiences
+- 🏗️ Passionate about scalable architecture & polished design
+- 📚 Constantly learning, experimenting, and creating
+- ☕ Fueled by coffee and curiosity
+
+---
+
+## 🛠️ Tech Stack
+
+<details open>
+<summary><b>💻 Frontend</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,materialui,figma" />
+</p>
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,mongodb,postgresql,firebase" />
+</p>
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,github,vscode" />
+</p>
+</details>
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <b>Full Stack Developer</b> building modern, fast, and delightful web experiences with
-  <b>MERN</b> • <b>TypeScript</b> • <b>Next.js</b><br/>
-  Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ragini-pandey&show_icons=true&theme=vue&hide_border=true&bg_color=0D1117&title_color=22c55e&icon_color=22c55e&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ragini-pandey&theme=vue-dark&hide_border=true&background=0D1117&stroke=22c55e&ring=22c55e&fire=22c55e&currStreakLabel=22c55e" />
 </p>
 
 <p align="center">
-  <a href="https://ragini-pandey.github.io" target="_blank"><b>🌐 Portfolio</b></a> |
-  <a href="https://github.com/ragini-pandey"><b>💻 GitHub</b></a> |
-  <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank"><b>🔗 LinkedIn</b></a>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragini-pandey&layout=compact&theme=vue&hide_border=true&bg_color=0D1117&title_color=22c55e&text_color=c9d1d9" />
 </p>
 
 ---
 
-### 🤝 Connect with me:
-<p align="left">
-  <a href="https://twitter.com/pandeyragini24" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/pandeyragini2407" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/ragini-pandey" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
 
-### ☕ Support my work
-<p align="left">
-  <a href="https://www.buymeacoffee.com/ragini.pandey" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ragini-pandey&theme=darkhub&no-frame=true&no-bg=true&column=7" />
 </p>
 
 ---
 
-### 🌱 About Me
+## 📈 Contribution Graph
 
-- Crafting interactive, high-quality user experiences
-- Passionate about scalable architecture & polished design
-- Constantly learning, experimenting, and creating
-- Exploring **Next.js**, **Convex**, & **Cloud integrations**
-
----
-
-### 🧰 Tech Stack
-
-#### 💻 Frontend
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" title="JavaScript" />
-  <img src="https://api.iconify.design/logos:tailwindcss-icon.svg" width="40" title="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" title="Material UI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
-</p>
-
-#### ⚙️ Backend & Databases
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" title="GraphQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
-</p>
-
-#### ☁️ Cloud, DevOps & Tools
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
-  <img src="https://api.iconify.design/logos:aws.svg" width="40" title="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://api.iconify.design/logos:github-icon.svg" width="40" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ragini-pandey&theme=github-compact&hide_border=true&bg_color=0D1117&color=22c55e&line=22c55e&point=ffffff" />
 </p>
 
 ---
 
-### 📊 GitHub Insights
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragini-pandey&show_icons=true&bg_color=fafafa&title_color=16a34a&icon_color=22c55e&text_color=065f46&hide_border=true" width="380" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ragini-pandey&theme=default&background=fafafa&ring=22c55e&fire=65a30d&currStreakLabel=15803d&sideLabels=065f46&sideNums=15803d&currStreakNum=065f46&dates=166534&hide_border=true" width="380" alt="GitHub Streak" />
-</p>
+## 🤝 Let's Connect & Collaborate
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragini-pandey&layout=compact&bg_color=fafafa&title_color=16a34a&text_color=065f46&hide_border=true" width="400" alt="Top Languages" />
-</p>
+| 💬 Reach Out | ☕ Support My Work |
+|:------------:|:------------------:|
+| Got a project idea or just want to chat? <br> I'm always open to discussing new opportunities! | If my work has helped you, consider supporting me! |
+| [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com) | [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ragini.pandey) |
+
+</div>
 
 ---
 
-<p align="center">
-  <em>🌿 "Build beautifully! Code fearlessly!" 🌿</em>
-</p>
+<div align="center">
+  
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=ragini-pandey&style=for-the-badge&color=22c55e" alt="Profile Views" />
+
+**🌿 "Build beautifully. Code fearlessly." 🌿**
+
+*Thanks for visiting! Have a great day!* 😊
+
+</div>
