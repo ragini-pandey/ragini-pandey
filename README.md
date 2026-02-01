@@ -46,14 +46,6 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 
 ---
 
-### 🌱 About Me
-
-- Crafting interactive, high-quality user experiences
-- Passionate about scalable architecture & polished design
-- Constantly learning, experimenting, and creating
-- Exploring **Next.js**, **Convex**, & **Cloud integrations**
-
----
 
 ### 🧰 Tech Stack
 
