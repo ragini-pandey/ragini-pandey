@@ -111,7 +111,6 @@ alt="Top Languages"
 </a>
 </p>
 
----
 
 <p align="center">
 <em>🌿 “Build beautifully! Code fearlessly!” 🌿</em>
