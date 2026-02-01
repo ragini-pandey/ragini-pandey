@@ -16,7 +16,6 @@
 
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <!-- Left column -->
     <td width="50%" valign="top">
       <h3 align="left">🤝 Connect with me:</h3>
       <p align="left">
@@ -32,13 +31,9 @@
         <a href="https://www.leetcode.com/ragini-pandey" target="_blank">
           <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragini-pandey leetcode" height="30" width="40" />
         </a>
-        <!-- <a href="https://github.com/ragini-pandey" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ragini-pandey github" height="30" width="40" />
-        </a> -->
       </p>
     </td>
 
-    <!-- Right column -->
     <td width="50%" valign="top">
       <h3 align="left">☕ Support my work</h3>
       <p align="left">
