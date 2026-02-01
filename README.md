@@ -12,9 +12,9 @@
   <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank"><b>🔗 LinkedIn</b></a>
 </p>
 
----
+<hr/>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
   <tr>
     <td width="50%" valign="top">
       <h3 align="left">🤝 Connect with me:</h3>
@@ -45,20 +45,22 @@
   </tr>
 </table>
 
----
+<hr/>
 
-### 🌱 About Me
+<h3>🌱 About Me</h3>
 
-- Crafting interactive, high-quality user experiences
-- Passionate about scalable architecture & polished design
-- Constantly learning, experimenting, and creating
-- Exploring **Next.js**, **Convex**, & **Cloud integrations**
+<ul>
+  <li>Crafting interactive, high-quality user experiences</li>
+  <li>Passionate about scalable architecture & polished design</li>
+  <li>Constantly learning, experimenting, and creating</li>
+  <li>Exploring <b>Next.js</b>, <b>Convex</b>, & <b>Cloud integrations</b></li>
+</ul>
 
----
+<hr/>
 
-### 🧰 Tech Stack
+<h3>🧰 Tech Stack</h3>
 
-#### 💻 Frontend
+<h4>💻 Frontend</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
@@ -70,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
 </p>
 
-#### ⚙️ Backend & Databases
+<h4>⚙️ Backend & Databases</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express" />
@@ -80,7 +82,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
 </p>
 
-#### ☁️ Cloud, DevOps & Tools
+<h4>☁️ Cloud, DevOps & Tools</h4>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
   <img src="https://api.iconify.design/logos:aws.svg" width="40" title="AWS" />
@@ -90,9 +92,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
 </p>
 
----
+<hr/>
 
-### 📊 GitHub Insights
+<h3>📊 GitHub Insights</h3>
 
 <p align="center">
   <img
@@ -115,7 +117,7 @@
   />
 </p>
 
----
+<hr/>
 
 <p align="center">
   <em>🌿 “Build beautifully! Code fearlessly!” 🌿</em>
