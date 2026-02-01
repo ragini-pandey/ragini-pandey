@@ -38,7 +38,7 @@
 ### ☕ Support my work
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/ragini.pandey" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
   </a>
 </p>
