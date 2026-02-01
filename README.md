@@ -1,6 +1,6 @@
-<h1 align="center">👩🏼‍💻 <span style="color:#16a34a;">Ragini Pandey</span></h1>
+<h1 align="center">👩🏼‍💻 Ragini Pandey</h1>
 
-<p align="center" style="font-size:16px;">
+<p align="center">
   <b>Full Stack Developer</b> building modern, fast, and delightful web experiences with
   <b>MERN</b> • <b>TypeScript</b> • <b>Next.js</b><br/>
   Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
@@ -12,55 +12,45 @@
   <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank"><b>🔗 LinkedIn</b></a>
 </p>
 
-<hr/>
+---
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🤝 Connect with me:</h3>
-      <p align="left">
-        <a href="https://twitter.com/pandeyragini24" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragini_pandey twitter" height="30" width="40" />
-        </a>
-        <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ragini-pandey-dev linkedin" height="30" width="40" />
-        </a>
-        <a href="https://instagram.com/pandeyragini2407" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ragini pandey instagram" height="30" width="40" />
-        </a>
-        <a href="https://www.leetcode.com/ragini-pandey" target="_blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ragini-pandey leetcode" height="30" width="40" />
-        </a>
-      </p>
-    </td>
+### 🤝 Connect with me:
+<p align="left">
+  <a href="https://twitter.com/pandeyragini24" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/pandeyragini2407" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/ragini-pandey" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+</p>
 
-    <td width="50%" valign="top">
-      <h3 align="left">☕ Support my work</h3>
-      <p align="left">
-        <a href="https://www.buymeacoffee.com/ragini.pandey" target="_blank">
-          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+### ☕ Support my work
+<p align="left">
+  <a href="https://www.buymeacoffee.com/ragini.pandey" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
+  </a>
+</p>
 
-<hr/>
+---
 
-<h3>🌱 About Me</h3>
+### 🌱 About Me
 
-<ul>
-  <li>Crafting interactive, high-quality user experiences</li>
-  <li>Passionate about scalable architecture & polished design</li>
-  <li>Constantly learning, experimenting, and creating</li>
-  <li>Exploring <b>Next.js</b>, <b>Convex</b>, & <b>Cloud integrations</b></li>
-</ul>
+- Crafting interactive, high-quality user experiences
+- Passionate about scalable architecture & polished design
+- Constantly learning, experimenting, and creating
+- Exploring **Next.js**, **Convex**, & **Cloud integrations**
 
-<hr/>
+---
 
-<h3>🧰 Tech Stack</h3>
+### 🧰 Tech Stack
 
-<h4>💻 Frontend</h4>
+#### 💻 Frontend
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
@@ -72,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
 </p>
 
-<h4>⚙️ Backend & Databases</h4>
+#### ⚙️ Backend & Databases
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express" />
@@ -82,7 +72,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase" />
 </p>
 
-<h4>☁️ Cloud, DevOps & Tools</h4>
+#### ☁️ Cloud, DevOps & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
   <img src="https://api.iconify.design/logos:aws.svg" width="40" title="AWS" />
@@ -92,33 +82,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
 </p>
 
-<hr/>
+---
 
-<h3>📊 GitHub Insights</h3>
+### 📊 GitHub Insights
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ragini-pandey&show_icons=true&bg_color=fafafa&title_color=16a34a&icon_color=22c55e&text_color=065f46&hide_border=true"
-    width="380"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=ragini-pandey&theme=default&background=fafafa&ring=22c55e&fire=65a30d&currStreakLabel=15803d&sideLabels=065f46&sideNums=15803d&currStreakNum=065f46&dates=166534&hide_border=true"
-    width="380"
-    alt="GitHub Streak"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ragini-pandey&show_icons=true&bg_color=fafafa&title_color=16a34a&icon_color=22c55e&text_color=065f46&hide_border=true" width="380" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ragini-pandey&theme=default&background=fafafa&ring=22c55e&fire=65a30d&currStreakLabel=15803d&sideLabels=065f46&sideNums=15803d&currStreakNum=065f46&dates=166534&hide_border=true" width="380" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragini-pandey&layout=compact&bg_color=fafafa&title_color=16a34a&text_color=065f46&hide_border=true"
-    width="400"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragini-pandey&layout=compact&bg_color=fafafa&title_color=16a34a&text_color=065f46&hide_border=true" width="400" alt="Top Languages" />
 </p>
 
-<hr/>
+---
 
 <p align="center">
-  <em>🌿 “Build beautifully! Code fearlessly!” 🌿</em>
+  <em>🌿 "Build beautifully! Code fearlessly!" 🌿</em>
 </p>
