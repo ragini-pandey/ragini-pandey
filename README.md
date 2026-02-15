@@ -17,22 +17,41 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 <tr>
 <td align="center">
 <b>🤝 Connect with me</b><br><br>
-<a href="https://twitter.com/pandeyragini24"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ragini-pandey-dev"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/pandeyragini2407"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.leetcode.com/ragini-pandey"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" /></a>
+
+<a href="https://twitter.com/pandeyragini24" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/ragini-pandey-dev" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+</a>&nbsp;&nbsp;
+
+<a href="https://instagram.com/pandeyragini2407" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" />
+</a>&nbsp;&nbsp;
+
+<a href="https://www.leetcode.com/ragini-pandey" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
+</a>
+
 </td>
+
 <td align="center">
 <b>☕ Support my work</b><br><br>
-  <a href="https://www.buymeacoffee.com/ragini.pandey">
+
+<a href="https://www.buymeacoffee.com/ragini.pandey" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" />
-</a>&nbsp;&nbsp;
-<a href="https://buymeachai.ezee.li/ragini_pandey">
+</a>
+<br><br>
+
+<a href="https://buymeachai.ezee.li/ragini_pandey" target="_blank" rel="noopener noreferrer">
   <img src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png" alt="Buy Me A Chai" height="40" />
 </a>
+
 </td>
 </tr>
 </table>
+
 
 ### 🧰 Tech Stack
 
