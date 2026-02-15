@@ -24,6 +24,7 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 </td>
 <td align="center">
 <b>☕ Support my work</b><br><br>
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/ragini_pandey)  
 <a href="https://www.buymeacoffee.com/ragini.pandey"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" /></a>
 </td>
 </tr>
