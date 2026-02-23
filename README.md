@@ -35,24 +35,24 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 ### 📈 Stock Seller  
 A stock management app that calulates the best time to buy and sell stocks to maximize profit based on technical indicators - Volatility stop, Moving day averages. 
 
-🔗 **Live Demo:** https://ragini-pandey.github.io/stock-seller  
+🔗 **Live Demo:** https://stock-seller.vercel.app  
 
 ### 🎯 Bill Roulette  
 A fun and interactive app to randomly select who pays the bill in the group outings.  
 
-🔗 **Live Demo:** https://ragini-pandey.github.io/bill-roulette  
+🔗 **Live Demo:** https://bill-roulette-rose.vercel.app 
 
 
 ### ⏳ Pomodoro Timer  
 A clean and minimal productivity timer based on the Pomodoro technique, helps maintain focus with structured work and break sessions.  
 
-🔗 **Live Demo:** https://ragini-pandey.github.io/podomoro-timer  
+🔗 **Live Demo:** https://podomoro-timer-navy.vercel.app  
 
 
 ### 🔍 Fresh Issues  
 A Tool that fetches and displays fresh GitHub issues from repositories. Helps contributors quickly discover and track new issues.  
 
-🔗 **Live Demo:** https://ragini-pandey.github.io/fresh-issues  
+🔗 **Live Demo:** https://fresh-issues.vercel.app
 
 
 ### 🧰 Tech Stack
