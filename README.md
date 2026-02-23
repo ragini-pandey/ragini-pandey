@@ -30,6 +30,35 @@ Focused on <b>clean code</b>, <b>performance</b>, and <b>great UX</b> ✨
 </tr>
 </table>
 
+## 🚀 Projects
+
+### 📈 Stock Seller  
+A stock profit calculator that determines the best time to buy and sell stocks to maximize profit based on technical indicators like Volatility stop, Moving day averages. 
+
+🔗 **Live Demo:** https://ragini-pandey.github.io/stock-seller  
+
+---
+
+### 🎯 Bill Roulette  
+A fun and interactive app to randomly select who pays the bill in the group outings.  
+
+🔗 **Live Demo:** https://ragini-pandey.github.io/bill-roulette  
+
+---
+
+### ⏳ Pomodoro Timer  
+A clean and minimal productivity timer based on the Pomodoro technique, helps maintain focus with structured work and break sessions.  
+
+🔗 **Live Demo:** https://ragini-pandey.github.io/podomoro-timer  
+
+---
+
+### 🔍 Fresh Issues  
+A Tool that fetches and displays fresh GitHub issues from repositories. Helps contributors quickly discover and track new issues.  
+
+🔗 **Live Demo:** https://ragini-pandey.github.io/fresh-issues  
+
+---
 
 ### 🧰 Tech Stack
 
