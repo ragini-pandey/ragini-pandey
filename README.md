@@ -55,7 +55,7 @@ A Tool that fetches and displays fresh GitHub issues from repositories. Helps co
 🔗 **Live Demo:** https://fresh-issues.vercel.app
 
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 #### 💻 Frontend
 <p align="center">
