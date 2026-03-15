@@ -141,15 +141,6 @@ A clean and minimal productivity timer based on the Pomodoro technique, designed
 
 ---
 
-## Education
-
-| Degree | Institution | Year |
-|--------|------------|------|
-| **PG-DAC** (Advanced Computing) | C-DAC, Pune | 2021–2022 |
-| **B.E.** (Mechanical Engineering) — 8.48 CGPA | G H Raisoni College of Engineering, Nagpur | 2015–2019 |
-
----
-
 ## GitHub Insights
 
 <p align="center">
@@ -180,5 +171,5 @@ A clean and minimal productivity timer based on the Pomodoro technique, designed
 </p>
 
 <p align="center">
-<em>"Build beautifully. Code fearlessly."</em>
+<em>🌿 "Build beautifully. Code fearlessly." 🌿</em>
 </p>
