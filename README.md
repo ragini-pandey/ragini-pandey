@@ -57,33 +57,33 @@ Full Stack Developer with **~4 years of professional experience** building enter
 <tr>
 <td width="50%">
 
-### 📈 [Stock Seller](https://stock-seller.vercel.app)
+### 📈 <a href="https://stock-seller.vercel.app" target="_blank">Stock Seller</a>
 A stock management app that calculates the best time to buy and sell stocks to maximize profit using technical indicators like Volatility Stop and Moving Averages.
 
-[Live](https://stock-seller.vercel.app)
+<a href="https://stock-seller.vercel.app" target="_blank">Live</a>
 </td>
 <td width="50%">
 
-### 🔍 [Fresh Issues](https://fresh-issues.vercel.app)
+### 🔍 <a href="https://fresh-issues.vercel.app" target="_blank">Fresh Issues</a>
 A tool that fetches and displays fresh GitHub issues from repositories, helping contributors quickly discover and track new open-source issues.
 
-[Live](https://fresh-issues.vercel.app)
+<a href="https://fresh-issues.vercel.app" target="_blank">Live</a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎯 [Bill Roulette](https://bill-roulette-rose.vercel.app)
+### 🎯 <a href="https://bill-roulette-rose.vercel.app" target="_blank">Bill Roulette</a>
 A fun and interactive app to randomly select who pays the bill during group outings.
 
-[Live](https://bill-roulette-rose.vercel.app)
+<a href="https://bill-roulette-rose.vercel.app" target="_blank">Live</a>
 </td>
 <td width="50%">
 
-### ⏳ [Pomodoro Timer](https://podomoro-timer-navy.vercel.app)
+### ⏳ <a href="https://podomoro-timer-navy.vercel.app" target="_blank">Pomodoro Timer</a>
 A clean and minimal productivity timer based on the Pomodoro technique, designed to help maintain focus with structured work and break sessions.
 
-[Live](https://podomoro-timer-navy.vercel.app)
+<a href="https://podomoro-timer-navy.vercel.app" target="_blank">Live</a>
 </td>
 </tr>
 </table>
@@ -153,22 +153,22 @@ A clean and minimal productivity timer based on the Pomodoro technique, designed
 ## GitHub Insights
 
 <p align="center">
-<a href="https://github.com/ragini-pandey">
+<a href="https://github.com/ragini-pandey" target="_blank">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragini-pandey&theme=vue" alt="GitHub Profile Summary" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/ragini-pandey">
+<a href="https://github.com/ragini-pandey" target="_blank">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragini-pandey&theme=vue" width="320" alt="GitHub Stats" />
 </a>
-<a href="https://github.com/ragini-pandey?tab=repositories">
+<a href="https://github.com/ragini-pandey?tab=repositories" target="_blank">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragini-pandey&theme=vue" width="320" alt="Top Languages" />
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/ragini-pandey">
+<a href="https://github.com/ragini-pandey" target="_blank">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragini-pandey&theme=vue&hide_border=true" alt="GitHub Streak" />
 </a>
 </p>
