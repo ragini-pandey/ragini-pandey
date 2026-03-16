@@ -23,7 +23,7 @@ Full Stack Developer with **~4 years of professional experience** building enter
 - Modernized monolith systems to **modular architecture**, improving performance and maintainability
 - Designed **RESTful & GraphQL APIs** with NestJS and Spring Boot
 - Optimized front-end performance, achieving **30% faster load times**
-- Active open-source contributor with **20+ merged PRs** across Elastic, freeCodeCamp, and more
+- Active open-source contributor with **25+ merged PRs** across Elastic, freeCodeCamp, and more
 
 ---
 
