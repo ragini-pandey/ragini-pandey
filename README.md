@@ -29,8 +29,7 @@ Full Stack Developer with **~4 years of professional experience** building enter
 
 ## Work Experience
 
-### Procore Technologies — Software Engineer II
-`Jan 2025 – Present`
+### Procore Technologies — Software Engineer II  -  `Jan 2025 – Present`
 > Global SaaS platform for construction management
 
 - Building and maintaining scalable **micro frontends** and shared UI components using React, TypeScript, and Zustand
@@ -39,8 +38,7 @@ Full Stack Developer with **~4 years of professional experience** building enter
 
 **Stack:** `React` `TypeScript` `Redux` `Zustand` `Node.js` `Express` `MySQL` `Docker` `AWS`
 
-### Wolters Kluwer — Associate Product Software Engineer
-`Jun 2022 – Jan 2025`
+### Wolters Kluwer — Associate Product Software Engineer  -  `Jun 2022 – Jan 2025`
 > Fortune 500 — Professional information, software solutions, and services
 
 - Developed and maintained enterprise tools (CCH IQ Workbench, Profile Manager) using React, Next.js, and Node.js
