@@ -29,7 +29,7 @@ Full Stack Developer with **~4 years of professional experience** building enter
 
 ## Work Experience
 
-### Procore Technologies — Software Engineer II  -  `Jan 2025 – Present`
+### Procore Technologies — Software Engineer II  -  <small>`Jan 2025 – Present`</small>
 > Global SaaS platform for construction management
 
 - Building and maintaining scalable **micro frontends** and shared UI components using React, TypeScript, and Zustand
