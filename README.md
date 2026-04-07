@@ -23,7 +23,7 @@ Full Stack Developer with **~4 years of professional experience** building enter
 - Modernized monolith systems to **modular architecture**, improving performance and maintainability
 - Designed **RESTful & GraphQL APIs** with NestJS and Spring Boot
 - Optimized front-end performance, achieving **30% faster load times**
-- Active open-source contributor with **35+ merged PRs** across Elastic, freeCodeCamp, and more
+- Active open-source contributor with **50+ merged PRs** across Elastic, freeCodeCamp, and more
 
 ---
 
@@ -133,7 +133,7 @@ A clean and minimal productivity timer based on the Pomodoro technique, designed
 
 ## Open Source Contributions
 
-- **35+ merged PRs** across production repositories
+- **50+ merged PRs** across production repositories
 - Contributed to **Elastic**, **freeCodeCamp**, **Stylint**, **Pocketpaw**, and other community projects
 - Focused on bug fixes, feature additions, and documentation improvements
 
