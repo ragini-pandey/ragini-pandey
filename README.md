@@ -19,11 +19,7 @@ Full Stack Developer · React · TypeScript · Node.js · Next.js
 
 Full Stack Developer with **~4 years of professional experience** building enterprise-grade web applications at scale. Currently at **Procore Technologies** (global construction SaaS platform), previously at **Wolters Kluwer** (Fortune 500, professional information & software).
 
-- Architecting **micro frontends** and shared UI component libraries serving large-scale enterprise products
-- Modernized monolith systems to **modular architecture**, improving performance and maintainability
-- Designed **RESTful & GraphQL APIs** with NestJS and Spring Boot
-- Optimized front-end performance, achieving **30% faster load times**
-- Active open-source contributor with **55+ merged PRs** across Elastic, freeCodeCamp, PocketPaw and more
+Active open-source contributor with **55+ merged PRs** across Elastic, freeCodeCamp, PocketPaw, Nanocoder and more
 
 ---
 
