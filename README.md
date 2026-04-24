@@ -19,7 +19,7 @@ Full Stack Developer · React · TypeScript · Node.js · Next.js
 
 Full Stack Developer with **~4 years of professional experience** building enterprise-grade web applications at scale. Currently at **Procore Technologies** (global construction SaaS platform), previously at **Wolters Kluwer** (Fortune 500, professional information & software).
 
-Active open-source contributor with **55+ merged PRs** across Elastic, freeCodeCamp, PocketPaw, Nanocoder and more
+Active open-source contributor with **60+ merged PRs** across Elastic, freeCodeCamp, PocketPaw, Nanocoder and more
 
 ---
 
@@ -129,7 +129,7 @@ A clean and minimal productivity timer based on the Pomodoro technique, designed
 
 ## Open Source Contributions
 
-- **55+ merged PRs** across production repositories
+- **60+ merged PRs** across production repositories
 - Contributed to **Elastic**, **freeCodeCamp**, **Stylint**, **Pocketpaw**, and other community projects
 - Focused on bug fixes, feature additions, and documentation improvements
 
