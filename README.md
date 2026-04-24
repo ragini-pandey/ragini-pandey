@@ -130,7 +130,7 @@ A clean and minimal productivity timer based on the Pomodoro technique, designed
 ## Open Source Contributions
 
 - **60+ merged PRs** across production repositories
-- Contributed to **Elastic**, **freeCodeCamp**, **Stylint**, **Pocketpaw**, and other community projects
+- Contributed to **Elastic**, **freeCodeCamp**, **Stylint**, **Pocketpaw**, **Nanocoder**, and other community projects
 - Focused on bug fixes, feature additions, and documentation improvements
 
 ---
